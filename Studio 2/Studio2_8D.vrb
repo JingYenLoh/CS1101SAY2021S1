@@ -1,5 +1,0 @@
-\frametitle{Nugget N1: Evaluation of Expressions}
-\texttt{(2+(4*6))*(3+12)} \\
-\includegraphics[width=0.7\textwidth]{tree.png}
-
-Click \href{https://youtu.be/X7v8MGhn_cc}{\underline{here}} for visualisation.
