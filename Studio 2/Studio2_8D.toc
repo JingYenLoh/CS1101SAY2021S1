@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Admin}{2}{0}{1}
+\beamer@sectionintoc {2}{Recap}{15}{0}{2}
+\beamer@sectionintoc {3}{Studio Sheet}{21}{0}{3}
+\beamer@sectionintoc {4}{Additional Material}{22}{0}{4}
