@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kd}{function} \PYG{n+nx}{p}\PYG{p}{()} \PYG{p}{\PYGZob{}}
+    \PYG{k}{return} \PYG{n+nx}{p}\PYG{p}{();}
+\PYG{p}{\PYGZcb{}}
+
+\PYG{k+kd}{function} \PYG{n+nx}{test}\PYG{p}{(}\PYG{n+nx}{x}\PYG{p}{,} \PYG{n+nx}{y}\PYG{p}{)} \PYG{p}{\PYGZob{}}
+    \PYG{k}{return} \PYG{n+nx}{x} \PYG{o}{===} \PYG{l+m+mi}{0} \PYG{o}{?} \PYG{l+m+mi}{0} \PYG{o}{:} \PYG{n+nx}{y}\PYG{p}{;}
+\PYG{p}{\PYGZcb{}}
+
+\PYG{n+nx}{test}\PYG{p}{(}\PYG{l+m+mi}{0}\PYG{p}{,} \PYG{n+nx}{p}\PYG{p}{());}
+\end{Verbatim}

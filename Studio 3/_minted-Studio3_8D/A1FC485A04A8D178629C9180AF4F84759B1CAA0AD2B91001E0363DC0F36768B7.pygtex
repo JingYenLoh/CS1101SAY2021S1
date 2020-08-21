@@ -1,0 +1,3 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{l+m+mi}{12345} \PYG{o}{\PYGZpc{}} \PYG{n+nx}{math\PYGZus{}pow}\PYG{p}{(}\PYG{l+m+mi}{10}\PYG{p}{,} \PYG{n+nx}{math\PYGZus{}floor}\PYG{p}{(}\PYG{n+nx}{math\PYGZus{}log10}\PYG{p}{(}\PYG{l+m+mi}{12345}\PYG{p}{)));}
+\end{Verbatim}

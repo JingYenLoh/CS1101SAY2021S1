@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k+kd}{function} \PYG{n+nx}{factorial}\PYG{p}{(}\PYG{n+nx}{n}\PYG{p}{)} \PYG{p}{\PYGZob{}}
+    \PYG{k}{return} \PYG{n+nx}{n} \PYG{o}{===} \PYG{l+m+mi}{1}
+        \PYG{o}{?} \PYG{l+m+mi}{1}
+        \PYG{o}{:} \PYG{n+nx}{n} \PYG{o}{*} \PYG{n+nx}{factorial}\PYG{p}{(}\PYG{n+nx}{n} \PYG{o}{\PYGZhy{}} \PYG{l+m+mi}{1}\PYG{p}{);}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}
