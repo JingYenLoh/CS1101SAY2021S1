@@ -1,7 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-\PYG{x}{function factorial(n) \PYGZob{}}
-\PYG{x}{    return n === 1}
-\PYG{x}{        ? 1}
-\PYG{x}{        : n * factorial(n \PYGZhy{} 1);}
-\PYG{x}{\PYGZcb{}}
-\end{Verbatim}

@@ -1,8 +1,0 @@
-\begin{Verbatim}[commandchars=\\\{\}]
-\PYG{n+nx}{dist}\PYG{p}{(}\PYG{l+m+mi}{1} \PYG{o}{+} \PYG{l+m+mi}{5}\PYG{p}{,} \PYG{l+m+mi}{2} \PYG{o}{*} \PYG{l+m+mi}{10}\PYG{p}{);}
-\PYG{n+nx}{math\PYGZus{}sqrt}\PYG{p}{(}\PYG{n+nx}{sq}\PYG{p}{(}\PYG{l+m+mi}{1} \PYG{o}{+} \PYG{l+m+mi}{5}\PYG{p}{)} \PYG{o}{+} \PYG{n+nx}{sq}\PYG{p}{(}\PYG{l+m+mi}{2} \PYG{o}{*} \PYG{l+m+mi}{10}\PYG{p}{))}
-\PYG{n+nx}{math\PYGZus{}sqrt}\PYG{p}{((}\PYG{l+m+mi}{1} \PYG{o}{+} \PYG{l+m+mi}{5}\PYG{p}{)} \PYG{o}{*} \PYG{p}{(}\PYG{l+m+mi}{1} \PYG{o}{+} \PYG{l+m+mi}{5}\PYG{p}{)} \PYG{o}{+} \PYG{p}{(}\PYG{l+m+mi}{2} \PYG{o}{*} \PYG{l+m+mi}{10}\PYG{p}{)} \PYG{o}{*} \PYG{p}{(}\PYG{l+m+mi}{2} \PYG{o}{*} \PYG{l+m+mi}{10}\PYG{p}{))}
-\PYG{n+nx}{math\PYGZus{}sqrt}\PYG{p}{((}\PYG{l+m+mi}{6}\PYG{p}{)} \PYG{o}{*} \PYG{p}{(}\PYG{l+m+mi}{1} \PYG{o}{+} \PYG{l+m+mi}{5}\PYG{p}{)} \PYG{o}{+} \PYG{p}{(}\PYG{l+m+mi}{2} \PYG{o}{*} \PYG{l+m+mi}{10}\PYG{p}{)} \PYG{o}{*} \PYG{p}{(}\PYG{l+m+mi}{2} \PYG{o}{*} \PYG{l+m+mi}{10}\PYG{p}{))}
-\PYG{n+nx}{math\PYGZus{}sqrt}\PYG{p}{((}\PYG{l+m+mi}{6}\PYG{p}{)} \PYG{o}{*} \PYG{p}{(}\PYG{l+m+mi}{6}\PYG{p}{)} \PYG{o}{+} \PYG{p}{(}\PYG{l+m+mi}{2} \PYG{o}{*} \PYG{l+m+mi}{10}\PYG{p}{)} \PYG{o}{*} \PYG{p}{(}\PYG{l+m+mi}{2} \PYG{o}{*} \PYG{l+m+mi}{10}\PYG{p}{))}
-\PYG{p}{...}
-\end{Verbatim}
