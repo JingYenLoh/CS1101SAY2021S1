@@ -4,6 +4,12 @@ body {
   font-family: system-ui, sans-serif;
 }
 
+<<<<<<< HEAD
+=======
+/* table { */
+/* } */
+
+>>>>>>> c68d35f... Add some styling
 tr {
   border: 1px solid black;
 }
